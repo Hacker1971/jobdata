@@ -1,0 +1,16 @@
+{
+    "companyId": 12345,
+    "companyName": "XYZ Corp",
+    "title": "Join Our Team",
+    "img": "https://example.com/xyz-corp-logo.png",
+    "jobOpenings": [
+      {
+        "jobId": 1,
+        "job": "Software Engineer",
+        "jobTitle": "Full Stack Developer",
+        "phone": "+1-555-123-4567",
+        "email": "jobs@xyzcorp.com",
+        "address": "123 Main Street, Anytown, USA"
+      }
+    ]
+  }

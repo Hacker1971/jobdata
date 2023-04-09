@@ -1,0 +1,47 @@
+[
+  {
+    "companyId": 12345,
+    "companyName": "XYZ Corp",
+    "title": "Join Our Team",
+    "img": "https://example.com/xyz-corp-logo.png",
+    "jobOpenings": [
+      {
+        "job": "Software Engineer",
+        "jobTitle": "Full Stack Developer",
+        "phone": "+1-555-123-4567",
+        "email": "jobs@xyzcorp.com",
+        "address": "123 Main Street, Anytown, USA"
+      }
+    ]
+  },
+  {
+    "companyId": 67890,
+    "companyName": "Google",
+    "title": "Join Our Team",
+    "img": "https://example.com/google-logo.png",
+    "jobOpenings": [
+      {
+        "job": "Software Engineer",
+        "jobTitle": "Full Stack Developer",
+        "phone": "+1-555-123-4567",
+        "email": "jobs@google.com",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA, USA"
+      }
+    ]
+  },
+  {
+    "companyId": 67891,
+    "companyName": "IBM",
+    "title": "Join Our Team",
+    "img": "https://example.com/ibm-logo.png",
+    "jobOpenings": [
+      {
+        "job": "Software Engineer",
+        "jobTitle": "Full Stack Developer",
+        "phone": "+1-555-123-4567",
+        "email": "jobs@ibm.com",
+        "address": "1 New Orchard Road, Armonk, NY, USA"
+      }
+    ]
+  }
+]
