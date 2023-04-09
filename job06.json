@@ -1,0 +1,15 @@
+{
+    "companyId": "job06",
+    "companyName": "Microsoft",
+    "title": "Principal Security Engineer",
+    "img": "https://education.sakshi.com/sites/default/files/styles/slider/public/2022-08/microsoft.jpg?h=ed058017",
+    "job": "Software Engineer",
+    "phone": "+1-555-123-5678",
+    "categories": [
+      "Remote",
+      "Full Time"
+    ],
+    "email": "microsoft.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 200K"
+  }

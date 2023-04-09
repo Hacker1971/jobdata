@@ -1,0 +1,14 @@
+{
+    "companyId": "job03",
+    "companyName": "Tesla",
+    "title": "Software Engineer",
+    "img": "https://example.com/xyz-corp-logo.png",
+    "job": "Software Engineer",
+    "phone": "+1-555-123-4567",
+    "categories": [
+      "Remote"
+    ],
+    "email": "jobs@xyzcorp.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 200K - 300K"
+  }

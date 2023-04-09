@@ -1,0 +1,14 @@
+{
+    "companyId": "job05",
+    "companyName": "IBM",
+    "title": "Data Scientist-Machine Learning",
+    "img": "https://pbs.twimg.com/profile_images/1493924319482761222/LLefmcf7_400x400.jpg",
+    "job": "Data & Analytics",
+    "phone": "+1-555-123-4567",
+    "categories": [
+      "Remote"
+    ],
+    "email": "ibm@gmail.com.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 150K"
+  }

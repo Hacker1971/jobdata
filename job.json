@@ -1,47 +1,89 @@
 [
   {
-    "companyId": 12345,
-    "companyName": "XYZ Corp",
-    "title": "Join Our Team",
+    "companyId": "job01",
+    "companyName": "Google LLC",
+    "title": "Technical Database Engineer",
+    "img": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw",
+    "job": "Software Engineer",
+    "phone": "+1-555-123-1234",
+    "categories": [
+      "Remote"
+    ],
+    "email": "google@gmail.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 150K"
+  },
+  {
+    "companyId": "job02",
+    "companyName": "Netflix",
+    "title": "Senior Product Designer",
+    "img": "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_scale.size_760x427.v1582751026.png",
+    "job": "Software Engineer",
+    "phone": "+1-555-123-2345",
+    "categories": [
+      "Remote",
+      "Full Time"
+    ],
+    "email": "netflix@gmail.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 170K"
+  },
+  {
+    "companyId": "job03",
+    "companyName": "Tesla",
+    "title": "Software Engineer",
     "img": "https://example.com/xyz-corp-logo.png",
-    "jobOpenings": [
-      {
-        "job": "Software Engineer",
-        "jobTitle": "Full Stack Developer",
-        "phone": "+1-555-123-4567",
-        "email": "jobs@xyzcorp.com",
-        "address": "123 Main Street, Anytown, USA"
-      }
-    ]
+    "job": "Software Engineer",
+    "phone": "+1-555-123-4567",
+    "categories": [
+      "Remote"
+    ],
+    "email": "jobs@xyzcorp.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 200K - 300K"
   },
   {
-    "companyId": 67890,
-    "companyName": "Google",
-    "title": "Join Our Team",
-    "img": "https://example.com/google-logo.png",
-    "jobOpenings": [
-      {
-        "job": "Software Engineer",
-        "jobTitle": "Full Stack Developer",
-        "phone": "+1-555-123-4567",
-        "email": "jobs@google.com",
-        "address": "1600 Amphitheatre Parkway, Mountain View, CA, USA"
-      }
-    ]
+    "companyId": "job04",
+    "companyName": "Airbnb LLC",
+    "title": "Motion Graphic Designer",
+    "img": "https://example.com/xyz-corp-logo.png",
+    "job": "Graphic Designer",
+    "phone": "+1-555-123-3456",
+    "categories": [
+      "Remote",
+      "Full Time"
+    ],
+    "email": "airbnb@gmail.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 150K"
   },
   {
-    "companyId": 67891,
+    "companyId": "job05",
     "companyName": "IBM",
-    "title": "Join Our Team",
-    "img": "https://example.com/ibm-logo.png",
-    "jobOpenings": [
-      {
-        "job": "Software Engineer",
-        "jobTitle": "Full Stack Developer",
-        "phone": "+1-555-123-4567",
-        "email": "jobs@ibm.com",
-        "address": "1 New Orchard Road, Armonk, NY, USA"
-      }
-    ]
+    "title": "Data Scientist-Machine Learning",
+    "img": "https://pbs.twimg.com/profile_images/1493924319482761222/LLefmcf7_400x400.jpg",
+    "job": "Data & Analytics",
+    "phone": "+1-555-123-4567",
+    "categories": [
+      "Remote"
+    ],
+    "email": "ibm@gmail.com.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 150K"
+  },
+  {
+    "companyId": "job06",
+    "companyName": "Microsoft",
+    "title": "Principal Security Engineer",
+    "img": "https://education.sakshi.com/sites/default/files/styles/slider/public/2022-08/microsoft.jpg?h=ed058017",
+    "job": "Software Engineer",
+    "phone": "+1-555-123-5678",
+    "categories": [
+      "Remote",
+      "Full Time"
+    ],
+    "email": "microsoft.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 200K"
   }
 ]

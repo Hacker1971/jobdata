@@ -1,16 +1,14 @@
 {
-    "companyId": 12345,
-    "companyName": "XYZ Corp",
-    "title": "Join Our Team",
-    "img": "https://example.com/xyz-corp-logo.png",
-    "jobOpenings": [
-      {
-        "jobId": 1,
-        "job": "Software Engineer",
-        "jobTitle": "Full Stack Developer",
-        "phone": "+1-555-123-4567",
-        "email": "jobs@xyzcorp.com",
-        "address": "123 Main Street, Anytown, USA"
-      }
-    ]
-  }
+  "companyId": "job01",
+  "companyName": "Google LLC",
+  "title": "Technical Database Engineer",
+  "img": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw",
+  "job": "Software Engineer",
+  "phone": "+1-555-123-1234",
+  "categories": [
+    "Remote"
+  ],
+  "email": "google@gmail.com",
+  "address": "123 Main Street, Anytown, USA",
+  "Salary": " 100K - 150K"
+}

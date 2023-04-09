@@ -1,0 +1,15 @@
+{
+    "companyId": "job04",
+    "companyName": "Airbnb LLC",
+    "title": "Motion Graphic Designer",
+    "img": "https://example.com/xyz-corp-logo.png",
+    "job": "Graphic Designer",
+    "phone": "+1-555-123-3456",
+    "categories": [
+      "Remote",
+      "Full Time"
+    ],
+    "email": "airbnb@gmail.com",
+    "address": "123 Main Street, Anytown, USA",
+    "Salary": " 100K - 150K"
+  }
